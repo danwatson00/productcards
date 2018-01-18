@@ -1,0 +1,24 @@
+article {
+    border: 1px solid lightblue;
+}
+
+.prod-title {
+    border: 1px dotted lightgray;
+}
+
+.prod-title, .prod-img {
+    align-self: center;
+}
+
+.avail {
+    color: yellow;
+}
+
+.avbox {
+    background-color: grey;
+}
+
+.prod-img {
+    height: 75%;
+    width: 75%
+}
